@@ -44,9 +44,15 @@ function Tutoring() {
                 <span>Beginner to intermediate levels</span>
               </div>
             </div>
-            <button className="bg-purple-600 text-white px-6 py-3 rounded-lg hover:bg-purple-700 w-full">
+            <a
+              href="https://docs.google.com/forms/d/e/1FAIpQLSfktzpDcSRTutKDQCb_e-j3rrxh_U3j_7SFv5xecfS6VC30ww/viewform"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="inline-block text-center bg-purple-600 text-white px-6 py-3 rounded-lg hover:bg-purple-700 w-full"
+              aria-label="Apply to be a Student (opens in new tab)"
+            >
               Apply to be a Student
-            </button>
+            </a>
           </div>
 
           <div className="bg-white p-8 rounded-lg shadow-md border">
@@ -72,9 +78,15 @@ function Tutoring() {
                 <span>Flexible commitment</span>
               </div>
             </div>
-            <button className="bg-green-600 text-white px-6 py-3 rounded-lg hover:bg-green-700 w-full">
+            <a
+              href="https://docs.google.com/forms/d/e/1FAIpQLSepDajbEFhnoGHahhbkN4Bgus_1yUjo2ALa2abx7MBIO-ihgg/viewform"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="inline-block text-center bg-green-600 text-white px-6 py-3 rounded-lg hover:bg-green-700 w-full"
+              aria-label="Apply to be a Mentor (opens in new tab)"
+            >
               Apply to be a Mentor
-            </button>
+            </a>
           </div>
         </div>
 
