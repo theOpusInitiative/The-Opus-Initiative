@@ -2,10 +2,10 @@ import  { Users, User, Clock } from 'lucide-react';
 
 function Tutoring() {
   const tutors = [
-    { name: "Piano Specialist 1", instruments: ["Piano"], experience: "5+ years" },
-    { name: "Piano Specialist 2", instruments: ["Piano"], experience: "4+ years" },
-    { name: "Piano & Violin", instruments: ["Piano", "Violin"], experience: "6+ years" },
-    { name: "Piano & Violin", instruments: ["Piano", "Violin"], experience: "5+ years" }
+    { name: "Drishti Mittal", instruments: ["Piano"], experience: "10+ years" },
+    { name: "Jacqueline Bi", instruments: ["Violin"], experience: "10+ years" },
+    { name: "Rohit Singh", instruments: ["Piano", "Violin"], experience: "10+ years" },
+    { name: "Catherine Wu", instruments: ["Piano", "Violin"], experience: "10+ years" }
   ];
 
   return (
@@ -16,7 +16,7 @@ function Tutoring() {
         <div className="text-center mb-12">
           <p className="text-lg text-gray-700 max-w-3xl mx-auto">
             Our tutoring network connects experienced high school musicians with students 
-            for free or low-cost lessons in instruments, vocals, and music theory.
+            for lessons in instruments, vocals, and music theory.
           </p>
         </div>
 
