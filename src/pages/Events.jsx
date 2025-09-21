@@ -18,7 +18,7 @@ function Events() {
             <div className="grid md:grid-cols-3 gap-4 mb-6">
               <div className="flex items-center">
                 <Clock className="h-5 w-5 text-gray-500 mr-2" />
-                <span>Late August 2024</span>
+                <span>Coming Soon</span>
               </div>
               <div className="flex items-center">
                 <MapPin className="h-5 w-5 text-gray-500 mr-2" />
@@ -109,4 +109,3 @@ function Events() {
 }
 
 export default Events;
- 
