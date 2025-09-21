@@ -3,9 +3,9 @@ import  { User } from 'lucide-react';
 function About() {
   const team = [
     { name: "Drishti M", role: "Founder and Executive Director", color: "bg-purple-500" },
-    { name: "Catherine W", role: "Director of Community and Outreach", color: "bg-blue-500" },
-    { name: "Rohit S", role: "Director of Innovation and Program Development", color: "bg-green-500" },
-    { name: "Jacqueline B", role: "Director of Events and Performances", color: "bg-pink-500" }
+    { name: "Catherine W", role: "Director of Outreach and Communications", color: "bg-blue-500" },
+    { name: "Rohit S", role: "Director of Technical Operations and Content Development", color: "bg-green-500" },
+    { name: "Jacqueline B", role: "Director of Programs and Events", color: "bg-pink-500" }
   ];
 
   return (
