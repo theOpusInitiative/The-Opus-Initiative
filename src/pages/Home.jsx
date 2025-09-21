@@ -9,7 +9,7 @@ function Home() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
           <h1 className="text-5xl font-bold mb-6">Inspiring Note by Note</h1>
           <p className="text-xl mb-8 max-w-3xl mx-auto">
-            The Opus Initiative is a student-led music nonprofit making music education free, fun, and accessible for every student, no matter their background.
+            The Opus Initiative is a student-led 501(c)(3) nonprofit making music education free, fun, and accessible for every student, no matter their background.
           </p>
           <div className="space-x-4">
             <Link to="/about" className="bg-white text-purple-600 px-8 py-3 rounded-lg font-semibold hover:bg-gray-100">
