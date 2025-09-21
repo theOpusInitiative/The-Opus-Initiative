@@ -78,7 +78,7 @@ function Programs() {
             </p>
             <div className="bg-blue-50 border border-blue-200 p-4 rounded">
               <p className="text-blue-800">
-                <strong>Coming Soon:</strong> Our first competition planned for end of 2024!
+                <strong>Coming Soon:</strong> Our first competition — stay tuned for dates and details!
               </p>
             </div>
           </div>
